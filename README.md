@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnerad
 - 👀 I’m interested in both backend and frontend web application development.
-- 🌱 I’m currently learning Ruby on Rails, git, and communication between the backend and databases.
+- 🌱 I’m currently learning Ruby on Rails, Git, and communication between the backend and databases.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
